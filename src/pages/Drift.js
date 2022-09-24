@@ -1,5 +1,10 @@
-export default function About() {
+export default function Drift() {
     return (
-        <h1>Drift page</h1>
+        <>
+            <h2>Дрифт-такси </h2>
+            <p>
+                Насладись дрифт-такси - уляпйся в грязи по самые уши.
+            </p>
+        </>
     )
 }
