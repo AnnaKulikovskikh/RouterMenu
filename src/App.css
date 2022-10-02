@@ -20,8 +20,7 @@
 
 .menu > li {
   text-decoration: none;
-  /* text-decoration-line: none;
-  text-decoration-color: #b4a4ae; */
+  text-decoration-line: none;
   color: #b4a4ae;
   font-size: 26px;
   font-weight: 500;
@@ -48,4 +47,8 @@
   padding-right: 62px;
   padding-left: 62px;
   padding-bottom: 84px;
+}
+
+active {
+  color: white;
 }
